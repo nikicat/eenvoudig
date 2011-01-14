@@ -1,0 +1,7 @@
+purpose "HTTP proxy server"
+description "Simple and fast threaded HTTP proxy server"
+
+option "listen-address" l "address to listen for incoming requests" string
+option "listen-port" p "port to listen for incoming requests" short
+option "backlog-len" b "backlog queue length" long
+option "worker-count" w "worker thread count" long
