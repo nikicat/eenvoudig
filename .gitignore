@@ -2,3 +2,12 @@ src/cmdline.c
 src/cmdline.h
 src/Makefile.in
 Makefile.in
+build
+missing
+install-sh
+configure
+configure.scan
+config.h.in
+aclocal.m4
+autom4te.cache
+depcomp
